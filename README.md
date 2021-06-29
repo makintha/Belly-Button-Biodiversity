@@ -7,11 +7,10 @@ We are to create plots based on the selected samples ID. Once this was done, we 
 ## Project Structures
 ```
 |__data
-    |__samples.json
-|__StarterCode
-    |__static\js
-        |__app.js
-    |__index.html
-    |__samples.json
+   |__samples.json
+|__static\js
+   |__app.js
+|__index.html
+|__samples.json
 |__README.md
 ```
